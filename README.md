@@ -1,7 +1,3 @@
-Here’s a concise README for your project:
-
----
-
 # VectorSentry  
 
 **VectorSentry** is a Go library designed to monitor and manage diverse resources, integrating their data into a vector database. It provides a seamless way to track changes in resources like text files, PDF files (with OCR), websites, and RSS feeds, ensuring the vector database stays up-to-date as resources evolve.  
@@ -18,10 +14,10 @@ Here’s a concise README for your project:
 - **Automated Workflows**: Trigger actions when resources are modified.  
 
 ## Roadmap  
-[] Implement basic functionality with text files and RSS feeds
-[] Add Docker code for easy deployment
-[] Add support for PDFs
-[] Add support for websites
+- [ ] Implement basic functionality with text files and RSS feeds
+- [ ] Add Docker code for easy deployment
+- [ ] Add support for PDFs
+- [ ] Add support for websites
 
 ## Contributing  
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features.  
